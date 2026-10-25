@@ -1,0 +1,225 @@
+{
+ "note": "Facebook posts moved from Metricool to the EC2 social poster on 25 Oct 2026. Texts and times as scheduled in Metricool; images = the marketing folder of the same post. Import: bin/social-import.php",
+ "posts": [
+  {
+   "id": "fb-2026-10-26",
+   "network": "facebook",
+   "publish_at": "2026-10-26 11:30",
+   "text": "Own a kosher catering business? A dental office? A community practice?\n\nYour neighbors walk into shul every day. At every minyan, they look at the screen for the zmanim.\n\nDigitalShul screens carry a small footer with ads from local Jewish businesses only. Your ad sits next to the times your community checks most.\n\nAnd your ad does more than sell. It is what keeps the screen free for the shul.\n\nSee how advertising works:\nhttps://digitalshul.com/targeted-ads.html\n\n#DigitalShul #JewishCommunity #SouthFlorida",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-10-27.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401175950
+  },
+  {
+   "id": "fb-2026-10-27",
+   "network": "facebook",
+   "publish_at": "2026-10-27 11:30",
+   "text": "Every shul has someone who used to reprint the zmanim sheet.\n\nAt Young Israel Chabad of Pembroke Pines, that job is gone. The DigitalShul screen on the wall shows the zmanim, minyan times and Shabbat times. All of it calculated from the shul's own coordinates.\n\nThe result: precision minyanim and clearer communication, without adding tasks for staff. The Rav and the kehillah focus on what matters.\n\nRead the full story on our Resources page:\nhttps://digitalshul.com/resources.html\n\n#DigitalShul #Kehillah #SouthFlorida #Zmanim",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-10-28.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401176336
+  },
+  {
+   "id": "fb-2026-10-28",
+   "network": "facebook",
+   "publish_at": "2026-10-28 11:30",
+   "text": "Kiddush sponsor changed? Shiur moved to 8:30?\n\nWith DigitalShul, your gabbai updates it from a simple web Dashboard. In seconds. It shows on the shul's screen right away, next to the zmanim and minyan times.\n\nNo printing. No taping a new sheet to the door. No chasing anyone.\n\nEvents, Shabbat notices and announcements — all managed by your own team.\n\nThe Free plan is $0/month. One $250 setup fee plus shipping.\n\nReserve Your Free Screen:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Shul #Minyan",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-10-29.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401176483
+  },
+  {
+   "id": "fb-2026-10-29",
+   "network": "facebook",
+   "publish_at": "2026-10-29 11:30",
+   "text": "Your shul follows a specific opinion. Your screen should too.\n\nDigitalShul calculates zmanim from your shul's exact coordinates — not a city approximation — and from the opinion your shul follows. Chabad/Baal HaTanya, GRA/Vilna Gaon, Magen Avraham.\n\nThe Rav decides. The screen follows. Every day, with atomic-clock synchronized time.\n\nFree plan: $0/month, one $250 setup fee plus shipping.\n\nReserve Your Free Screen:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Zmanim #Shul",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-01.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401177628
+  },
+  {
+   "id": "fb-2026-10-30",
+   "network": "facebook",
+   "publish_at": "2026-10-30 11:00",
+   "text": "Zmanim, right in your pocket.\n\nThe DigitalShul app is free. It puts zmanim on your phone.\n\nIt shows today's zmanim wherever you are — at home, at work, or on the road before Shabbat. No need to call the shul or look for the printed sheet. Your family can have it too.\n\nAvailable now on Google Play for Android.\n\nGet it before Shabbat:\nhttps://digitalshul.com/app.html\n\nShabbat Shalom.\n\n#DigitalShul #Zmanim #Shabbat #JewishCommunity",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-10-30.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401177812
+  },
+  {
+   "id": "fb-2026-11-01",
+   "network": "facebook",
+   "publish_at": "2026-11-01 11:30",
+   "text": "From form to live screen, in three steps:\n\n1. Reserve your spot. A 2-minute form.\n2. We tell you what you need — TV size, connection, mounting — and confirm before anything is ordered.\n3. You mount the TV. We mail a preconfigured microcomputer with a step-by-step guide. One HDMI cable, one power cable, about 10 minutes from a phone. We activate it remotely.\n\nLive help by phone or WhatsApp the whole way. No IT expert needed.\n\nStart with step 1:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Shul #Minyan",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-03.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178002
+  },
+  {
+   "id": "fb-2026-11-02",
+   "network": "facebook",
+   "publish_at": "2026-11-02 11:30",
+   "text": "Coming to the Kinus this Thursday, November 5?\n\nDigitalShul will be there. Stop by and see the screen running live: exact zmanim, minyan times, Hebrew date and Shabbat times, all on one display.\n\nFind us at Booth 56. Bring your questions about setup, ads or cost.\n\nCan't make it? Reserve your spot online in 2 minutes. Nothing is ordered until we confirm the details with you.\nhttps://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Kehillah #Shul",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-02.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401196395
+  },
+  {
+   "id": "fb-2026-11-03",
+   "network": "facebook",
+   "publish_at": "2026-11-03 11:30",
+   "text": "Shul board meeting coming up?\n\nHere's DigitalShul on one page, ready to print or forward:\n\n• Cost: $0/month on the Free plan. One $250 setup fee + shipping ($10 USA / $30 international).\n• Ads: community-only, from local Jewish businesses. That is what keeps it free.\n• Prefer no ads? Fully Customized is $54/month ($36/month for the first 6 months).\n• Already running in South Florida shuls.\n\nEverything a board usually asks, in one meeting.\n\nDownload the 1-page board summary: https://digitalshul.com/docs/DigitalShul-Board-Summary.pdf\n\n#DigitalShul #Shul #Synagogue",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-08.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178200
+  },
+  {
+   "id": "fb-2026-11-04",
+   "network": "facebook",
+   "publish_at": "2026-11-04 11:30",
+   "text": "Tomorrow is the Kinus, Thursday, November 5.\n\nWe'll be there with a DigitalShul screen running live — the same display that already hangs on the wall in South Florida shuls.\n\nCome see your zmanim calculated from your own shul's coordinates. Ask us anything about setup, ads or cost.\n\nFind us at Booth 56.\n\nNot attending? You can still reserve your spot online in 2 minutes:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Kehillah #JewishCommunity",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-04.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401196538
+  },
+  {
+   "id": "fb-2026-11-05",
+   "network": "facebook",
+   "publish_at": "2026-11-05 11:30",
+   "text": "Today is the Kinus.\n\nDigitalShul is there, with a screen running live. Come see your shul's zmanim the way your members would see them: exact, calculated from your shul's own coordinates. Minyan times, Hebrew date and Shabbat times on one display.\n\nFind us at Booth 56.\n\nCan't stop by? Reserve your spot in 2 minutes. Nothing is ordered until we confirm the details with you.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Kinus #Zmanim #Shul",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-05.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401196828
+  },
+  {
+   "id": "fb-2026-11-06",
+   "network": "facebook",
+   "publish_at": "2026-11-06 11:00",
+   "text": "Thank you to every Rav who stopped by our table at the Kinus.\n\nIt was an honor to talk with you about your kehillot.\n\nIf we spoke and you'd like to move ahead, the next step is simple: a 2-minute form. We'll tell you exactly what your shul needs, and nothing is ordered until we confirm it with you.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\nShabbat Shalom from all of us at DigitalShul.\n\n#DigitalShul #Kinus #Shabbat #Kehillah",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-06.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178413
+  },
+  {
+   "id": "fb-2026-11-08",
+   "network": "facebook",
+   "publish_at": "2026-11-08 11:30",
+   "text": "Want to see DigitalShul before you decide?\n\nOur video walkthrough shows the whole thing: the screen, the zmanim, the minyan times, and how announcements get updated from the Dashboard.\n\nIt's a good one to share with your Rav, your gabbai or your board. Everyone sees the same thing, and the questions get easier.\n\nWatch the walkthrough. It takes only a few minutes: https://youtu.be/xvkwYF0zpKs\n\n#DigitalShul #Zmanim #Shul #JewishTech",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-09.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178581
+  },
+  {
+   "id": "fb-2026-11-09",
+   "network": "facebook",
+   "publish_at": "2026-11-09 11:30",
+   "text": "Gabbaim, this one is for you.\n\nWhat happens if something on the screen needs attention? You send us a WhatsApp. We answer.\n\nDigitalShul support is 24/6. We close only on Shabbat and Yom Tov, like your shul.\n\nNo IT staff needed. No ticket system. A real person on WhatsApp or the phone, from installation day onward.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Minyan #Shul #Zmanim",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-10.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178787
+  },
+  {
+   "id": "fb-2026-11-10",
+   "network": "facebook",
+   "publish_at": "2026-11-10 11:30",
+   "text": "Some shuls prefer a screen with no advertising at all. We understand, and we respect that choice.\n\nThat's what the Fully Customized plan is for:\n\n• No advertising, ever\n• Full branding control: your shul's look on the screen\n• Automated zmanim and 24/6 support\n\n$54/month ($36/month for the first 6 months). Same one-time $250 setup fee.\n\nSee the Fully Customized plan: https://digitalshul.com/fully-customized-service.html\n\n#DigitalShul #Shul #Synagogue",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-11.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401178930
+  },
+  {
+   "id": "fb-2026-11-11",
+   "network": "facebook",
+   "publish_at": "2026-11-11 11:30",
+   "text": "Shacharis. Mincha. Maariv.\n\nThree minyanim a day, and the times shift with the seasons. On a DigitalShul screen they're always current, with zmanim calculated from your shul's own coordinates.\n\nThe clock is synchronized to atomic time. Candle lighting and Shabbat times are there too.\n\nThe gabbai doesn't reprint anything. Members just look up at the screen.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Minyan #Zmanim #Shul",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-12.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401179324
+  },
+  {
+   "id": "fb-2026-11-12",
+   "network": "facebook",
+   "publish_at": "2026-11-12 11:30",
+   "text": "Rabbi, your time belongs with your community.\n\nNot with a zmanim sheet. Not with a sign that needs changing every week.\n\nDigitalShul shows exact zmanim, minyan times, the Hebrew date and Shabbat times on any TV in your shul. Everything is calculated from your shul's own coordinates. Your team updates announcements from a simple web Dashboard.\n\nIt's free: $0/month. One $250 setup fee plus shipping.\n\nWe build the screen. You lead the kehillah.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Kehillah #Zmanim",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-15.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401193703
+  },
+  {
+   "id": "fb-2026-11-13",
+   "network": "facebook",
+   "publish_at": "2026-11-13 11:00",
+   "text": "Erev Shabbat in shul. One look at the wall tells you what you need.\n\nThe Hebrew date. This week's parsha. Candle lighting. When Shabbat starts and when it ends. Mincha and Maariv times.\n\nAll on one screen, calculated from your shul's exact coordinates. No printed sheet. No one rushing to update a sign before Shabbat.\n\nThat's what a DigitalShul screen does for a kehillah.\n\nSee how it works: https://digitalshul.com\n\nShabbat Shalom.\n\n#DigitalShul #Shabbat #Zmanim #JewishCommunity",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-13.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401193903
+  },
+  {
+   "id": "fb-2026-11-15",
+   "network": "facebook",
+   "publish_at": "2026-11-15 11:30",
+   "text": "Kosher caterers. Dental offices. Community professionals and organizations.\n\nYour customers are in shul every day. Shacharis, Mincha, Maariv. And they look at the screen for zmanim and minyan times.\n\nDigitalShul screens carry a small footer with ads from local Jewish businesses only. Nothing from outside the community.\n\nThose ads are what keep the screen free for the shul. Your business reaches your neighbors, and your shul gets its display at no monthly cost.\n\nLearn how to advertise: https://digitalshul.com/targeted-ads.html\n\n#DigitalShul #JewishCommunity #SouthFlorida #Kehillah",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-16.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401194042
+  },
+  {
+   "id": "fb-2026-11-16",
+   "network": "facebook",
+   "publish_at": "2026-11-16 11:30",
+   "text": "Already have a TV in the shul? It works.\n\nDon't have one yet? We tell you the size and placement before anything is ordered.\n\nThat's the second step of DigitalShul. You reserve your spot in a 2-minute form. Then we confirm what you need: TV size, connection and mounting. Nothing is ordered until you agree.\n\nAfter that, it's two cables and a phone. About 10 minutes.\n\nReserve Your Free Screen: https://docs.google.com/forms/d/e/1FAIpQLSdDRJRE3NfsuYlDS_JpUdu_PdqRuhYusc3-D9icwttOOMS4ww/viewform\n\n#DigitalShul #Shul #Synagogue",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-17.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401194188
+  },
+  {
+   "id": "fb-2026-11-17",
+   "network": "facebook",
+   "publish_at": "2026-11-17 11:30",
+   "text": "Wish your shul had the zmanim on a screen?\n\nYou can help make it happen. Share DigitalShul with your Rav, your gabbai or your shul president.\n\nHere's what they'll want to know. Zmanim are exact, calculated from the shul's own coordinates. Minyan times, Shabbat times and announcements, all in one place. The Free plan is $0/month, with one $250 setup fee. Setup takes about 10 minutes.\n\nSend them this link: https://digitalshul.com\n\n#DigitalShul #Shul #Zmanim #JewishCommunity",
+   "link": "",
+   "media_url": "https://raw.githubusercontent.com/DigitalShul/digitalshul-media/main/social/images/2026-11-18.jpg",
+   "status": "approved",
+   "approved_by": "Ricardo (Metricool)",
+   "metricool_id": 401194339
+  }
+ ]
+}
